@@ -1,0 +1,84 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # Sequencial Data Types
+# Sequences are one of the principla build-in data types besides numerics, 
+# mappings, files, instances and exceptions. 
+# Python provides for six sequence (or sequential) data type:
+# * Strings
+# * byte sequences
+# * byte arrays 
+# * lists
+# * tuples
+# * range objects 
+# 
+
+# In[ ]:
+
+
+
+
+
+# In[1]:
+
+
+strTex = "Hello World"
+strTex[0]
+
+
+# In[10]:
+
+
+lstCities = ["vienna", "London", "paris", "berlin", "Zurich", "Hamburg"]
+lstCities[5]
+
+
+# In[13]:
+
+
+len(lstCities)
+
+
+# In[20]:
+
+
+lstFibonacci = [1, 1, 2, 3, 5, 8, 23, 21, 34, 55]
+lstFibonacci[4]
+
+
+# ####Create a languages list and add values the following values ->  python, c, c++, Jave and Perl. 
+# print a message that says, first and second langauge are quite different 
+# 
+# 
+
+# In[33]:
+
+
+lstlanguages = ["languages", "c", "c++", "Jave", "Perl"]
+print(lstlanguages[0]+ "and " + lstlanguages[1] + " are quit different")
+
+
+# In[65]:
+
+
+lstGroup = ["Bob", 23, "George", 72, " Myriam", 29]
+print("Name:", lstGroup[2], "age is:",  lstGroup[3] )
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
