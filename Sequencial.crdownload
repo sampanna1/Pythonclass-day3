@@ -46,7 +46,7 @@ lstFibonacci = [1, 1, 2, 3, 5, 8, 23, 21, 34, 55]
 lstFibonacci[4]
 
 
-# ####Create a languages list and add values the following values ->  python, c, c++, Jave and Perl. 
+# #Create a languages list and add values the following values ->  python, c, c++, Jave and Perl. 
 # print a message that says, first and second langauge are quite different 
 # 
 # 
